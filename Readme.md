@@ -12,3 +12,7 @@ Usage:
 ```
 python main.py
 ```
+
+![]('./chinese_cloud2.png')
+
+***君子大勝欸！！***
