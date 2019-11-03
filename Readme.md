@@ -16,3 +16,7 @@ python main.py
 ![Alt text](wordcloud.png)
 
 ***君子大勝欸！！***
+
+## TODO
+- [] Upgrade to pipenv
+- [] Add more explanation
