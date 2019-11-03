@@ -13,6 +13,6 @@ Usage:
 python main.py
 ```
 
-![]('./chinese_cloud2.png')
+![Alt text](wordcloud.png)
 
 ***君子大勝欸！！***
