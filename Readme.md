@@ -8,6 +8,11 @@ And display in word cloud.
 python main.py # Get tokenizer for 詩經 and store as tokenize.txt
 ```
 
+Install:
+```
+pip install -r requirement.txt
+```
+
 Usage:
 ```
 python main.py
@@ -16,7 +21,3 @@ python main.py
 ![Alt text](wordcloud.png)
 
 ***君子大勝欸！！***
-
-## TODO
-- [] Upgrade to pipenv
-- [] Add more explanation
